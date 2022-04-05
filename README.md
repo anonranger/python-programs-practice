@@ -11,3 +11,6 @@
 - Dictionary - with Lists
 - File I/O
 
+# References
+
+- 100 Challenging Python Exercises
